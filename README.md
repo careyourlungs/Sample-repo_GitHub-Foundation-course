@@ -10,6 +10,14 @@ This is a footnote[^1]. Another footnote[^2].
 [^1]: Footnote reference 1
 [^2]: Footnote reference 2
 
+- [x] First note
+- [ ] second note
+- [x] third note
+
+<details>
+  <summary>Collapsed section</summary>Hi
+</details>
+
 Left | Centre | Right
 ---  |  :---: | ----:
 $10  | $20    | $30
@@ -23,7 +31,7 @@ $90  | $100   | $200
   1. Item 3
   2. Item 4
 >Use GitLens, an extension that is available in visual studio code [marketplace](https://visualstudiocode.com) which is helpful if you usually work to see the differences between commits and branches.
-
+🫀
 https://instagram.com
 
 ![Gen AI](https://images.app.goo.gl/d2do17MqVDA5m7ig6)
