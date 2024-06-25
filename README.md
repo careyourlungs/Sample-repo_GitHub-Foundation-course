@@ -1,10 +1,19 @@
 # Learning Git and Github !
 
 Subheading
+--
 
-Version __control__ is an essential skill for developers to ~~master~~, and Git is by far the most popular _version_ control system on the web. In this fast-paced course, author Ray Villalobos shows you how to install Git and use the fundamental `commands` you need to work with Git projects: moving files, managing logs, and working with branches.
+Version *control* is an essential skill for developers to ~~master~~, and Git is by far the most popular _version_ control system on the web. In this fast-paced course, author Ray Villalobos shows you how to install Git and use the fundamental `commands` you need to work with Git projects: moving files, managing logs, and working with branches.
 
 ---
+This is a footnote[^1]. Another footnote[^2].
+[^1]: Footnote reference 1
+[^2]: Footnote reference 2
+
+Left | Centre | Right
+---  |  :---: | ----:
+$10  | $20    | $30
+$90  | $100   | $200
 
 - Item 1
 - Item 2
@@ -23,3 +32,5 @@ https://instagram.com
 a=5
 print(a)
 ```
+
+
