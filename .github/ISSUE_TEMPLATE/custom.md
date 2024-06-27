@@ -1,7 +1,7 @@
 ---
 name: Custom issue template
 about: Sample template about
-title: ''
+title: "[BUG]"
 labels: ''
 assignees: ''
 
